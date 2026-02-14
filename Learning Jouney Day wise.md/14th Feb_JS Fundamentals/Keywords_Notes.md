@@ -1,11 +1,13 @@
 ===============================
-Keywords---LET, VAR and CONST NOTES
-===============================
+
+KEYWORDS-- are reserved words in JavaScript that have a specific meaning and cannot be used as identifiers (such as variable names, function names, etc.).
+They are used to declare variables in JavaScript. 
+Examples of keywords include var, let, const, if, else, for, while, function, return, etc
+
 
 ===============================
 VAR NOTES
 ===============================
-------
 
 Definition:
 var is a keyword used to declare a variable.

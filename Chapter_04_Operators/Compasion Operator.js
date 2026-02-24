@@ -11,7 +11,7 @@ console.log(5 === '5'); // false
 console.log(5 != '5'); // false 
 4. !== (Strict Inequality): Checks if the values and data types of two operands are not equal.
     Example:
-console.log(5 !== '5'); // true
+console.log('5 !== '5); // true
 5. > (Greater Than): Checks if the value of the left operand is greater than the value of the right operand.
     Example:
 console.log(10 > 5); // true

@@ -10,7 +10,7 @@ if (age > 18) { // 'if' is a keyword used for conditional statements
    
 
 }
-
+    
  
 var name = "John";
 /*var → keyword

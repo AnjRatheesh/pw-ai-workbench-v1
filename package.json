@@ -1,0 +1,24 @@
+{
+  "name": "pw-ai-workbench-v1",
+  "version": "1.0.0",
+  "description": "Learning repository covering Playwright automation, JavaScript, TypeScript, AI-assisted testing, and modern end-to-end test framework practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjRatheesh/pw-ai-workbench-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnjRatheesh/pw-ai-workbench-v1/issues"
+  },
+  "homepage": "https://github.com/AnjRatheesh/pw-ai-workbench-v1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
